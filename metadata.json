@@ -1,0 +1,8 @@
+{
+  "name": "Remix SHIELD SYSTEM — 66 Günlük RPG Kişisel Gelişim",
+  "description": "Tate no Yuusha atmosferinden ilham alan, 66 günlük kişisel gelişim sürecini RPG oyununa dönüştüren modern web platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
